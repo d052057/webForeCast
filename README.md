@@ -1,1 +1,1 @@
-"# webForeCast" 
+This is a modified version from Microsoft feed-back.  Instead of pulling data from json, msft SQL is used instead.  Modified the model to calc Temperature Convertion IN TypeScripts and VS Model as well. Good exercies for entry.
